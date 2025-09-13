@@ -10,6 +10,8 @@ import sys
 from typing import Tuple, Dict, Optional
 import pandas as pd
 import numpy as np
+
+st.set_page_config(page_title="A multi-tissue, multi-omics atlas of hibernation", layout="wide")
 if(os.path.isfile('demo.zip')):
     os.remove('demo.zip')
 with zipfile.ZipFile('demo.zip', 'x') as csv_zip:
@@ -25,7 +27,6 @@ with open("demo.zip", "rb") as file:
 if(os.path.isfile('demo.zip')):
     os.remove('demo.zip')
 
-st.set_page_config(page_title="A multi-tissue, multi-omics atlas of hibernation", layout="wide")
 st.title("A multi-tissue, multi-omics atlas of hibernation")
 st.markdown(
     """
