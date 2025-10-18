@@ -59342,3 +59342,1365 @@ Hspa5,Up,Protein,BAT,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.
 Hspa5,Up,Protein,Brain,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16788740/,Mouse_gene_symbol
 Ucp1,Up,Protein,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16782837/,Mouse_gene_symbol
 Ucp3,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16782837/,Mouse_gene_symbol
+Slc17a7,Down,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40914502/,Mouse_gene_symbol
+Gad1,Up,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40914502/,Mouse_gene_symbol
+Gad2,Down,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40914502/,Mouse_gene_symbol
+Map2,Up,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40914502/,Mouse_gene_symbol
+miR-21,Down,miRNA,Blood,Tailless tenrec,https://pubmed.ncbi.nlm.nih.gov/40906428/,miRNA
+miR-210,Down,miRNA,Blood,Tailless tenrec,https://pubmed.ncbi.nlm.nih.gov/40906428/,miRNA
+miR-206,Up,miRNA,Blood,Tailless tenrec,https://pubmed.ncbi.nlm.nih.gov/40906428/,miRNA
+Carnitine,Down,Metabolite,Blood,Black bear,https://pubmed.ncbi.nlm.nih.gov/40812782/,Metabolite
+CAR 2:0,Up,Metabolite,Blood,Black bear,https://pubmed.ncbi.nlm.nih.gov/40812782/,Metabolite
+Elovl1,Up,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Scd1,Up,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Rdh16,Down,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Apoc3,Up,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Gk,Down,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Ehhadh,Down,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Angptl4,Down,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Cpt1a,Down,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Pck1,Down,mRNA,Liver,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/40723554/,Mouse_gene_symbol
+Acadl,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Slc25a5,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Hadh,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Etfa,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Echs1,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Acadm,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Etfdh,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Decr1,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Hadhb,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Mdh2,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Acads,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Sod2,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Sdha,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Fh1,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Dlst,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Cpt1a,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Acadvl,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Aco2,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Dld,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Cpt2,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Ogdh,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Sucla2,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Ndufs1,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Pdha1,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Gpx4,Up,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Cox5a,Down,Protein,Liver,Djungarian hamster,https://pubmed.ncbi.nlm.nih.gov/40663131/,Mouse_gene_symbol
+Aass,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Abat,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Abcb8,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Abcc2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acaca,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acad8,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acadl,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ackr2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acot11,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acp5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acsl6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acsm5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acss1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Actg2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adam12,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adam17,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adamts12,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adamts16,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adamts17,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adamts2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adamts7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adamtsl2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adap1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adcy7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adcyap1r1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adgre5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adgrg6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adora1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aebp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Agbl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ahnak2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aldh1l1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aldh1l2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aldh4a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Alg14,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Angptl2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ankrd2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ankrd9,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Anxa1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Anxa2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aoah,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aox1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aplnr,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Apod,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aqp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ar,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arhgap22,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arhgap44,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arhgef28,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Armc9,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arsa,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arsi,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arsj,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Asns,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Aspn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Atp2a3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Atxn7l3b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Baiap2l1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bcat2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bckdhb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Best3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bgn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bmp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bmp7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bpi,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qa,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qc,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qtnf1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qtnf2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qtnf3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qtnf6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1ra,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1s1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C4a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cachd1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cadm3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Camk1d,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Capn6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Car14,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Carns1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Casq2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccdc160,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccdc170,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccdc80,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccn3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccnd2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cd109,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cd1d1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cd209e,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cd248,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cd276,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cd38,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cd44,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cdc42ep3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cdh11,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cdk2ap2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cdo1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cemip2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cep72,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cfap410,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chad,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chd3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chi3l1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chpf,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chrd,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chrnb1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cib1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cidea,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cidec,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ckap4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ckb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Clip4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Clu,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cntfr,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cntn1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cntn4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col12a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col14a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col15a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col18a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col1a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col1a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col3a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col4a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col4a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col4a3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col4a4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col4a5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col5a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col5a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col6a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col6a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col6a3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col6a6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Col8a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Colgalt2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cotl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cpxm1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cpxm2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cpz,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Creb3l1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Crhr2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Crip1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Crispld2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Crym,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Csf1r,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Csmd2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cth,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cthrc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ctsh,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cx3cr1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cys1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dagla,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dbn1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dbt,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dclk1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dcn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dgat2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dhcr24,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dhtkd1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dis3l2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dmgdh,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dmtn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dnm1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dpp4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dpt,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dpysl3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ebf4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Echdc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ecm1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ecm2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Efemp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Egf,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eln,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Elovl5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Elovl6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Emid1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Emilin1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Emilin2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eno1b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Enpp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Entpd2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Epha3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ephb2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ephx2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Epn3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ergic1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Esrrb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Etv1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Extl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eya2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+F13a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+F2rl2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fads1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fads2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fam151a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fam174b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fam180a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fam20a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fam43b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fank1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fasn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fbln1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fbln2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fbln7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fbn1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fcer1g,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fcgr2b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fer1l6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fermt3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fgf6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fgfr4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fitm1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fkbp10,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fkbp5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Flrt2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Flrt3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fmn2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fmod,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fn1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fndc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Folr2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Foxo6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fras1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Frem2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fstl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+G0s2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+G3bp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gadl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gal3st4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Galns,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gas7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gclc,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gdf10,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gdpd5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gfra3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gja4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gjc3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gldn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gli1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Glipr1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Glipr2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Glul,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gpat3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gpc6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gpcpd1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gpm6b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gpnmb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gpr153,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gpt,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Grem2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gria3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gsn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gykl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gys1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hagh,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hapln3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Heg1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hhipl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Higd1b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hipk4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hk2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hmcn2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hoxa13,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hs3st2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hsd11b2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hspb1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hspg2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Idh1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igf1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igfbp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igfbp4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igfbp5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igfbp6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igfbp7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igsf23,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Il1r2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ildr2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Inha,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Irf5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Irx3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Islr,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Islr2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ism1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Itga11,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Itga8,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Itgav,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Itgbl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Itih5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Itm2a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Itm2c,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Jchain,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Jdp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kazald1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kcna1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kctd12,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kctd14,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kera,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kif23,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Klf13,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Klhl25,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ky,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lama2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lama4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lamb1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lcat,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ldlr,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lgi2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lgi3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lgi4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lgr5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lhfpl2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lhfpl6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lipa,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lox,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Loxl2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Loxl3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lpar1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lpcat2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lrp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lrrc25,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lrrc36,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ltbp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lum,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lyve1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Man1a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Map1a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Map1lc3a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Map2k6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Map3k5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Masp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Matn2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mcam,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mccc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mccc2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mchr1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Me2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Med26,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Medag,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mfap2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mfap5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mfsd4a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mfsd4b1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mgst1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mlec,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mlf1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mlxipl,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mmp14,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mmp16,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mmp19,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mmp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mmp23,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mmut,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mob3c,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mpst,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mrc2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mrgprf,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Msc,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Msra,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mtarc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mtfp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mtg1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mthfd2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mx2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mybph,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Myl9,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mylk,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Myog,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Myoz3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mzb1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Naa40,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nalcn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ncapd3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ncf4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nek3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nfasc,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ngfr,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nid1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nid2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nif3l1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ninj2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nipsnap1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nmb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Npepl1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nt5c1a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ntn4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nup62cl,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Oaf,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ogn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Olfm1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Olfm2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Olig1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Osgin1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Otud7a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Oxct1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+P2ry14,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+P2ry2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+P3h3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+P4ha2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Papss2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pccb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pcdh1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pcolce,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pcsk5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pcsk6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pcx,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pdgfb,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pdgfrl,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pdlim1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pdlim4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pdp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pheta2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Phgdh,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Phkg1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Phospho1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pi15,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Piezo2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pigz,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pitx3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pla2g7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plbd1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pld5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plekha7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plekhf1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plk5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plod1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plxdc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pmepa1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pnma1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Podn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Polm,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Postn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ppic,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ppp2r2c,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ppt1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Prdx5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Prkag3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Prr33,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Prxl2a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Psat1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ptges,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ptgfrn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ptgr1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ptgs1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pxmp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pyroxd2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Qpct,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rab31,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rassf5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rcn3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Reck,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Relt,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ret,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rftn1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rgs3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rnf115,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rnf34,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Robo1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rrbp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rsad1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rspo3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Runx2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Samd11,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Samhd1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sardh,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Satb2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sbspon,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Scara5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Scd1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Scin,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Scn7a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Scpep1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Scx,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sdc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sdk1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sec24d,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Selenbp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sema3d,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Serpinf1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Serping1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Serpinh1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sfrp4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sfrp5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sgk2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sik2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sirt3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc14a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc1a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc22a17,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc22a3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc22a4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc25a33,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc29a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc2a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc37a4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc38a3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc39a7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc43a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc45a2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc4a8,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc6a4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slco2a1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slit3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Smoc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Smoc2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Smpdl3b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Snx33,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Socs2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sod3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sorcs1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sparc,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Spon1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Spon2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Spp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sppl2b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sprn,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Spsb1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sqle,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Srpx,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ssc5d,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+St6gal1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+St6galnac4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+St8sia5,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Stab1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Stau2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Stk32c,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sulf1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sumf2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Svep1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Syn1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Syt12,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tagln3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tbc1d1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tbc1d16,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tcaim,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tedc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tent5b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tgfbi,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tgm2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Thada,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Thbs2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Thbs3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Thbs4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Thsd4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Thy1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Timd4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Timp4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tkt,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tldc2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmc6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmed3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmem119,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmem176b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmem229b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmem233,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmem37,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tmtc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tnc,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tnfaip6,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tnfaip8l3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tnfrsf8,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tnnt2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tns3,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tob2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tpbg,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Trim21,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Trnp1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Trp53i11,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Trp53inp2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Trub2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tspan9,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tst,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ttc7,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Unc80,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Usp54,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vash2,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vat1l,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vcam1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vcan,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vegfd,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vldlr,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vstm4,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vwa5a,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Wfdc1,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Xdh,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zc3h7b,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zfp169,Down,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+1110059G10Rik,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ache,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acp2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Acvr2b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Adprhl1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Alkbh3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Anapc13,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Anapc16,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Angpt4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Angptl4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ankrd1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ankrd24,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ankrd34a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ankrd37,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Apold1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arfgap1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arid5a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Arpp19,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Art1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ascc1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bbs2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bhlhe40,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Bpifc,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Brf1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Btg2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C1qtnf4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+C2cd4a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cabp4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Calr3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Catsperg1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cbx7,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccdc106,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccdc73,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ccn1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cdk5r1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cdk5rap3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cenpb,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chkb,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chrac1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chrm4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Chrna10,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cir1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Cmbl,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Crat,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Csrnp1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ctdspl,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ctsd,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dhrs7,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Drc1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dusp1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dusp26,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dut,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Dynlt3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eda2r,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Egr1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Egr2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Egr3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eif3g,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eif3h,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eif3m,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eif4b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Eif4ebp1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Emc10,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Epb41l4b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Epcam,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Faap20,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fam219b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fam83h,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fgfrl1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fos,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fosb,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Foxh1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Foxk1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Fuz,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gadd45a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gadd45b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Galnt15,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gatm,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gbe1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gdap1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Glrx,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gltpd2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gnptab,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Grm2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gtf2ird1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gtf3a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Gtpbp4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Habp2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Haghl,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hdac9,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hdgfl2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Heca,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hes1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hirip3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hoxc8,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hs3st3b1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Hsf4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Id1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ier2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ier5,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Igf2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Impdh2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Inhbb,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Jade1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Jade2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Jun,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Junb,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kash5,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kcne3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kcnq4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kctd2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kif22,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kif26b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kifc2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kiz,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Klf2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Klf4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Klhl41,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Kyat1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lgalsl,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lin7b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Lrrc47,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Maff,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Maneal,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mepce,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mis12,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mllt3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mob2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mogat1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mrpl23,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mrpl57,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Mthfr,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Myo1a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ndrg2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Neurl2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nfil3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nme4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nog,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nr4a1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nr4a2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nrbf2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nt5dc3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Nudc,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ogfr,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Otc,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Otud1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+P2rx6,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+P4hb,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pabpc4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pak1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pcsk4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pdyn,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pdzrn3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Peli3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pelp1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pfdn6,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pgap4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Phf1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pitx2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pla2g4b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Plxnb1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pnma8a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ppp1r13l,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ppp1r15a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ppp1r3e,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ppp1r3g,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Prelid2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Prkar1b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Proca1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Psd,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Psmg3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ptp4a3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Pus7,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rab33b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rbm34,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rdh14,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Reps1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Retreg1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Retreg2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rnf151,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rora,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rorc,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rpl12,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rpl22l1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rpl30,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rpl38,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rps21,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rps23,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rps25,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Rragd,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Scn3b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sec63,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Septin11,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Septin12,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Serhl,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sh3rf1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sh3yl1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Shf,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Shmt1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc25a20,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc2a3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slc39a2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Slx9,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Smarcc1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Smim29,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Snai3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sox17,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Spata24,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Srsf5,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ssbp2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ssr4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Stc2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Stk19,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Stpg3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sumo3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Sycp2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Taf9b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tamalin,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tapt1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tas1r1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tcim,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tcta,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tex9,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tnfrsf9,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tnni3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tppp2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tprn,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Trmt112,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Tspyl2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ttc33,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Uba52,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ubap1l,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ube4a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ubxn1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Ucp3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Usf3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Usp4,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Utp14a,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Utp18,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vps9d1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vsig10,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Vsig10l,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Wfikkn2,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Yjefn3,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zbtb12,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zc3h6,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zfand2b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zfp280b,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zfp36,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zfp62,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zpr1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zranb1,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zswim9,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+Zxdc,Up,mRNA,Muscle,Black bear,https://pubmed.ncbi.nlm.nih.gov/40584666/,Mouse_gene_symbol
+miR-200a-3p,Down,miRNA,Pancreas,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40427509/,Mouse_gene_symbol
+miR-328-3p,Down,miRNA,Pancreas,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40427509/,Mouse_gene_symbol
+miR-21-5p,Down,miRNA,Pancreas,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40427509/,Mouse_gene_symbol
+miR-148a-3P,Down,miRNA,Pancreas,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40427509/,Mouse_gene_symbol
+miR-29a-3p,Up,miRNA,Pancreas,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40427509/,Mouse_gene_symbol
+miR-22-3p,Up,miRNA,Pancreas,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40427509/,Mouse_gene_symbol
+miR-125a-5p,Up,miRNA,Pancreas,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40427509/,Mouse_gene_symbol
+Syp,Up,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40377082/,Mouse_gene_symbol
+Rbfox3,Up,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40377082/,Mouse_gene_symbol
+Calb1,Down,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40377082/,Mouse_gene_symbol
+Aif1,Up,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40377082/,Mouse_gene_symbol
+Gfap,Down,Protein,Retina,Asia Minor ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40377082/,Mouse_gene_symbol
+Pdk4,Up,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Tcap,Up,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Trim54,Up,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Dpt,Up,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Krt79,Down,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Rpl22,Down,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Arg1,Down,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Krt17,Down,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Krt5,Down,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Krt1,Down,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Dnah1,Down,mRNA,Heart,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Pdk4,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Hbb-bs,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Hba,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Ca2,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Slc4a1,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Bpgn,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Mt1,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Apoa4,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Lrg1,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Pdlim3,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Ca1,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Bnip3,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Phyh,Up,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Plin2,Down,mRNA,Muscle,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40254931/,Mouse_gene_symbol
+Trim63,Up,mRNA,Muscle,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/40122513/,Mouse_gene_symbol
+Theg,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cldnd2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Olr1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Serpina1c,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Prlh,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Prl,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mup5,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ube2v1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm13279,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Serpina7,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Percc1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pnmt,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Bglap2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Clrn3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lbx2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Acsm2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc6a4,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm2832,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Izumo1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Bglap3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cyp4f39,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cyp2d11,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mageb3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Crisp1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ifi213,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cndp1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm5797,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Txk,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Trim31,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ppbp,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc22a2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Rgs18,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tph2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gimap3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Prss30,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Wap,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc38a5,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Inmt,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gimap5,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mcemp1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zfp345,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Xlr4a,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Six1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm29797,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mrap,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ptgdr,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ly6g6f,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zdhhc19,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ikzf3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Bik,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Psrc1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Trim71,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or52d3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm8159,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tspan1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Edar,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Klb,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mrgprf,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Amhr2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+H2-Ab1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ranbp3l,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cish,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc22a8,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Idi2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tssk4,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Galr3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+1700001P01Rik,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gpr119,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc45a2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+C1qtnf1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gsx1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+1700028J19Rik,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Sla2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Olfml2a,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lrrc51,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Abcc6,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Litafd,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Alpl,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tnfsf10,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gsta3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mylpf,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mfsd4b1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Aldh1a3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gimap8,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Nfatc4,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Islr,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cst7,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tnfrsf14,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Insc,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tie1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tceal7,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tfap2e,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc4a9,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Smad6,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+B3gnt7,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tsks,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Bmx,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mcmdc2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Clhc1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Catsperg2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Smim14,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cby3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ninj2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Nr5a1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Galnt3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ccdc167,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Klhl41,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Traf3ip2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Nr5a2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Spink10,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gprc5c,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Qrfp,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pomc,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Trim47,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Nid2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Btk,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Sema3b,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mill2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Vamp5,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc6a12,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Eps8l1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Depdc7,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Rasl12,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gpr50,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ets1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mmp28,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Smim4,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Sp100,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tmem51,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ctsk,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mansc4,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ccdc38,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lama4,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pld6,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Clca3a1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zfp493,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cenpl,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm21953,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pla2g4a,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Hscb,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ggt1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Dedd,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Degs2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Wdr89,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Amacr,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Svep1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Atp8b1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Trim34a,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lss,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Dus4l,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Arhgef19,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Phkg1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gal3st1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Kcnq4,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Polg2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Katna1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lrrc75a,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zswim3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Agrp,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Plekha2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Kctd21,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fli1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Rarg,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Dynlt1c,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Hpgd,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ifnar2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Acad10,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Plcxd1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Trim45,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gemin2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Dynlt1a,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Erg,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zfp341,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Abhd14b,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Hmcn1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ccdc77,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cxadr,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zmat5,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Srr,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Thap2,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Hs3st1,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Abhd5,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Reep3,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mecr,Down,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Sdc4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tenm1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cacnb2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pin4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zbtb16,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ucp2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Grid1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+F3,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Nell1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Apod,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fkbp5,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc25a13,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mt1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Errfi1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Arrdc2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Kirrel2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Abhd15,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pdk4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Setdb2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mlph,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+H1f3,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Sgk1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tma16,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+BC049715,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Scd3,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Arhgap11a,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+C5ar1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fam107a,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lrp2bp,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Xdh,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lgals12,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gpd1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm17660,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pla2g3,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Nfkbia,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ano2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pnpla2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zfp36,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Map3k6,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+H3c1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Smok3c,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Axdnd1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lrrc10b,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tlr7,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+H2ac15,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ncf1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Efhc1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ddit4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tex48,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pdilt,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or8b53,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Vmn2r18,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Mxd3,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Stab2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fos,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+1700020N01Rik,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Klrg2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc22a19,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+H2ac11,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Otoa,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm5916,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Prok1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gys2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cdkn1a,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Tas2r108,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Angptl4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or7e166,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Plaat5,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pimreg,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slco1b2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Slc5a1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Atp1b4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ankle1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fabp12,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+F9,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Spata19,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fmo2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lcn2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Prr30,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Dspp,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Il22ra1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gpr152,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm21833,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm8024,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or2h2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or6e1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or2w3b,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Grk1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Hsd17b13,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fbxw26,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Car1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Scp2d1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Pnliprp2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fabp6,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm16434,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm13693,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm10334,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Zfp534,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm13698,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Fgf21,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Il17f,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cyp1a2,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm6676,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or4a80,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Smcp,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Upk3b,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Lilra6,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gm3099,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Dmrt3,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cidec,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Foxd4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or2at4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Ntf5,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or10a4,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Gimd1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Cyp2g1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Chkb,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Rnf139,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+Or13g1,Up,mRNA,Hypothalamus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/40743333/,Mouse_gene_symbol
+miR-1301-3p,Down,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-125a-5p,Down,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-3059-5p,Down,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-221-3p,Down,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-4485-3p,Down,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-21-5p,Down,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-378c,Up,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-27b-3p,Up,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-192-5p,Up,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+miR-663b,Up,miRNA,Muscle,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/39768165/,Mouse_gene_symbol
+Kcnc1,Down,mRNA,Hypothalamus,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/39764389/,Mouse_gene_symbol
+Kcna2,Down,mRNA,Hypothalamus,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/39764389/,Mouse_gene_symbol
+Kcng4,Down,mRNA,Hypothalamus,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/39764389/,Mouse_gene_symbol
+Kcna6,Down,mRNA,Hypothalamus,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/39764389/,Mouse_gene_symbol
+Scn1a,Down,mRNA,Hypothalamus,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/39764389/,Mouse_gene_symbol
+Hcn2,Down,mRNA,Hypothalamus,Chipmunk,https://pubmed.ncbi.nlm.nih.gov/39764389/,Mouse_gene_symbol
+miR-34a-5p,Down,miRNA,Liver,Garden dormouse,https://pubmed.ncbi.nlm.nih.gov/39732156/,miRNA
+Atp5f1a,Down,Protein,Heart,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39694092/,Mouse_gene_symbol
+Uqcrc2,Down,Protein,Heart,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39694092/,Mouse_gene_symbol
+Acacb,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Acad9,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Vdac2,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Vdac1,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Camk2b,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Mrpl16,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Tmem11,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Igfn1,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Xirp2,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Fitm1,Down,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Mlf2,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Hmox1,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Cirbp,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Gfpt1,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Sorbs1,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Lrrc2,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Ankrd1,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Gpd1,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Pygm,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Myh3,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Srsf5,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Tnnt1,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Lmna,Up,Protein,Muscle,Brown bear,https://pubmed.ncbi.nlm.nih.gov/39747078/,Mouse_gene_symbol
+Hspd1,Down,mRNA,Artery,Daurian ground squirrel,https://pubmed.ncbi.nlm.nih.gov/39684599/,Mouse_gene_symbol
+Lonp1,Down,mRNA,Artery,Daurian ground squirrel,https://pubmed.ncbi.nlm.nih.gov/39684599/,Mouse_gene_symbol
+Dnm1l,Up,Protein,Testis,Daurian ground squirrel,https://pubmed.ncbi.nlm.nih.gov/39032767/,Mouse_gene_symbol
+Mff,Up,Protein,Testis,Daurian ground squirrel,https://pubmed.ncbi.nlm.nih.gov/39032767/,Mouse_gene_symbol
+Opa1,Up,Protein,Testis,Daurian ground squirrel,https://pubmed.ncbi.nlm.nih.gov/39032767/,Mouse_gene_symbol
+Mfn2,Up,Protein,Testis,Daurian ground squirrel,https://pubmed.ncbi.nlm.nih.gov/39032767/,Mouse_gene_symbol
+Slc16a2,Down,mRNA,Tanycytes,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38987241/,Mouse_gene_symbol
+Tnf,Up,mRNA,Hippocampus,Mouse (FIT),https://pubmed.ncbi.nlm.nih.gov/38686173/,Mouse_gene_symbol
+mmu-miR-132-3p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-183-5p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-19a-5p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-19b-3p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-224-5p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-323-3p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-369-5p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-379-5p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-381-3p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-381-3p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-452-5p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-493-5p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-494-3p,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-704,Up,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-103-3p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-129-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-129b-3p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-181b-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-185-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-218-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-219c-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-221-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-221-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-222-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-374c-3p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-378a-3p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-378a-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-582-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-652-5p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mmu-miR-879-3p,Down,miRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,miRNA
+mt-Co1,Up,mRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,Mouse_gene_symbol
+mt-Cytb,Up,mRNA,Liver,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38881427/,Mouse_gene_symbol
+Hmgcs2,Up,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Pdk4,Up,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Ucp3,Up,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Cpt1a,Up,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Lamc1,Up,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Bag2,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Carnmt1,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Trabd,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Ampd1,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Tcp11l2,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Serpinh1,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Actn3,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+Mybpc2,Down,Protein,Muscle,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/38752835/,Mouse_gene_symbol
+mt-Co2,Up,mRNA,BAT,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/16721807/,Mouse_gene_symbol
+mt-Nd4,Up,mRNA,BAT,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/16721807/,Mouse_gene_symbol
+Cpt1b,Up,mRNA,BAT,Little brown bat,https://pubmed.ncbi.nlm.nih.gov/16721807/,Mouse_gene_symbol
+Oxct1,Up,mRNA,Heart,Thirteen-lined ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16602690/,Mouse_gene_symbol
+Acsl1,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Acadm,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Scp2,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Acot9,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Acaa2,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Sucla2,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Suclg1,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Idh3a,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Mdh1,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Cox6c,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Dld,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Cycs,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Ndufa8,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Ldha,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Atp5b,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Fabp3,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Slc25a20,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Hspa9,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Sod2,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Eef1a1,Down,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Rps16,Down,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Rpl3,Down,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Plin2,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Ghitm,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Gja1,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Sparc,Down,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Actb,Down,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Asns,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Ywhae,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Mmut,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Ptp4a1,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Tsc22d1,Down,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol
+Rab1a,Up,mRNA,BAT,Arctic ground squirrel,https://pubmed.ncbi.nlm.nih.gov/16464973/,Mouse_gene_symbol

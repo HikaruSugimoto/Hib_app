@@ -31,7 +31,7 @@ st.title("A multi-tissue, multi-omics atlas of hibernation")
 st.markdown(
     """
 This app compares your uploaded omics results with a curated multi-omics database of hibernation- or hypometabolism-associated changes 
-(15,771 alterations across transcriptome/proteome/miRNA/metabolome from 285 studies). This outputs overlapping molecules and categorizes them by directional agreement.
+(15,957 alterations across transcriptome/proteome/miRNA/metabolome from 310 studies). This outputs overlapping molecules and categorizes them by directional agreement.
     """
 )
 
